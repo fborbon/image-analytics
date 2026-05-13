@@ -1,0 +1,7 @@
+# Downloaded video and generated outputs — large files, not for version control
+emotion_analysis/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
